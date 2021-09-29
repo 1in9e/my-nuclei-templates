@@ -3,7 +3,7 @@ id: header-blind-xss
 info:
   name: Delivering blind xss payloads via headers
   author: panch0r3d
-  severity: varies
+  severity: medium
 
 requests:
   - method: GET
